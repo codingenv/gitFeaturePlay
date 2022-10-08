@@ -12,5 +12,6 @@ public class Test2 {
 
     public static void display(){
         System.out.println("This is display method");
+        System.out.println("Going to do the 2nd commit");
     }
 }
