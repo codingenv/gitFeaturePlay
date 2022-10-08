@@ -16,4 +16,11 @@ public class Test2 {
         int i = 0;
 
     }
+
+    public static void dispaly3(){
+        System.out.println("This is display3 method");
+        System.out.println("This is display3 method");
+        int i = 0;
+
+    }
 }
