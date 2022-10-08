@@ -4,9 +4,16 @@ public class Test2 {
     int a;
     int b;
     char c;
-    String str;
+    String name;
 
     public static void main(String [] args){
         System.out.println("This is test2 file");
+    }
+
+    public static void dispaly2(){
+        System.out.println("This is display method");
+        System.out.println("This is display method");
+        int i = 0;
+
     }
 }
